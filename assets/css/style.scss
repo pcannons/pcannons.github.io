@@ -1,0 +1,17 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+header h1:before {
+    content: unset;
+}
+
+header h1 {
+    margin: 0;
+}
+
+#twitter-icon {
+    filter: invert(1);
+    margin-left: 20px;
+}
