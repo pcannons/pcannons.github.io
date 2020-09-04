@@ -30,7 +30,7 @@ When building an MVP you don't know what % chance it has of generating revenue. 
 
 ## Build Power
 
-Another common inner refrain I had was: "But Philipp, sure you can build the logic to do cool stuff in a day but getting a produciton ready product deployed takes more than that." I've come to think of that as an excuse as well. Great, so I should optimize a system so it takes 0 seconds to create anything but value. Things are basically UIs/DBs/REST APIs. It's the same process over and over and over again. Hence "build power".
+Another common inner refrain I had was: "But Philipp, sure you can build the logic to do cool stuff in a day but getting a production ready product deployed takes more than that." I've come to think of that as an excuse as well. Great, so I should optimize a system so it takes 0 seconds to create anything but value. Things are basically UIs/DBs/REST APIs. It's the same process over and over and over again. Hence "build power".
 
 If you are interested to join me on either my technical or product journey, I have 2 Twitters since they don't let you define "topics" or "facets" of what you tweet about:
 
