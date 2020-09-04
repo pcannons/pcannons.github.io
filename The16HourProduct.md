@@ -12,7 +12,7 @@ People dissatisfied with their ability to accomplish an important outcome. It wo
 
 ## 2. Hard to build, hard to persuade
 
-People satisfied with the tools they use to accomplish an important outcome. Using a certain technological innovation or paradigm shift would allow building a solution to do it 10x better. You need to be living on the bleeding edge of the techonology. This is Wozniak from Apple, Max Levchin from PayPal, and Hotmail co-founders if you read their story in "Founders At Work" by Jessica Livingston. Not only do you need to be damn good at applying your technical expertise in the right place, you need to prove to people how dissatisfied they should be with something they thought they were perfectly happy with.
+People satisfied with the tools they use to accomplish an important outcome. Using a certain technological innovation or paradigm shift would allow building a solution to do it 10x better. You need to be living on the bleeding edge of the technology. This is Wozniak from Apple, Max Levchin from PayPal, and Hotmail co-founders if you read their story in "Founders At Work" by Jessica Livingston. Not only do you need to be damn good at applying your technical expertise in the right place, you need to prove to people how dissatisfied they should be with something they thought they were perfectly happy with.
 
 ## My Plan
 
@@ -37,4 +37,3 @@ If you are interested to join me on either my technical or product journey, I ha
 [Entrepreneurship Twitter](https://twitter.com/pcannons)
 
 [Tech/Nerd Twitter](https://twitter.com/philipp_tech)
-
