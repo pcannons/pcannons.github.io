@@ -1,3 +1,5 @@
-## Philipp's Technical Wiki
+# Philipp's Technical Wiki
 
-On a quest to maximize how "rich" of a product I can build in 1 day. I call this "build power".
+## [The 16 Hour Product](https://philipp.wiki/The16HourProduct)
+
+On a quest to build impressive products e2e in 16 hours. I call this build power. 🏗💪
