@@ -1,18 +1,26 @@
 # The 16 Hour Product
 
-On a quest to build impressive products end to end in 16 hours. I call this build power. 🏗💪
+On a quest to build financially successful products end-to-end in 16 hours. I call this build power. 🏗💪
 
-Why not 24 hours? 8 to sleep. 🛌
+Why not 24 hours? 8 to sleep. 🛌 Why 16 hours then? 
 
-Why 16 hours then? In my opinion there are two types of clear-cut opportunities in entrepreneurship:
+At its simplest I believe there are:
+1. people, 
+2. outcomes they want.
 
-## 1. Easy to build, hard to find
+If you can help them accomplish those emotional+functional outcomes in a significantly better way you will be rewarded. Concretely you can make something faster, take less effort, be more pleasurable, or be possible at all. The more important the outcome is to them and the more significant your help accomplishing it, the more they'll reward you with their money or time.
+
+## Motivation
+
+In my opinion two types of clear-cut opportunities in entrepreneurship are:
+
+### 1. Easy to build, hard to find
 
 People dissatisfied with their ability to accomplish an important outcome. It wouldn't be particularly hard for a good team to create a solution and get paid. But no entrepreneur has discovered this opportunity yet. This is a findability problem. [Here's a bunch of examples.](https://www.indiehackers.com/products?minRevenue=1000&revenueVerification=stripe) These don't usually make a ton of money unless they are crazy counterintuitive like AirBnB and Facebook was.
 
-## 2. Hard to build, hard to persuade
+### 2. Hard to build, hard to persuade
 
-People satisfied with the tools they use to accomplish an important outcome. Using a certain technological innovation or paradigm shift would allow building a solution to do it 10x better. You need to be living on the bleeding edge of the technology. This is Wozniak from Apple, Max Levchin from PayPal, and Hotmail co-founders if you read their story in "Founders At Work" by Jessica Livingston. Not only do you need to be damn good at applying your technical expertise in the right place, you need to prove to people how dissatisfied they should be with something they thought they were perfectly happy with.
+People satisfied with the tools they use to accomplish an important outcome. Using a recent scientific discovery allows building a solution to do it 10x better. You need to be living on the bleeding edge of the technology. This is Wozniak from Apple, Max Levchin from PayPal, and Hotmail co-founders if you read their story in "Founders At Work" by Jessica Livingston. Not only do you need to be damn good at applying your technical expertise in the right place, you need to prove to people how dissatisfied they should be with something they thought they were perfectly happy with.
 
 ## My Plan
 
